@@ -1,9 +1,9 @@
 {
   "type": "Text",
   "data": {
-    "text": "<p>and here is some more text</p>"
+    "text": "<p>and here is some more text it does work</p>"
   },
   "path": "/other-text",
   "createdAt": "2018-03-08T23:12:02.629Z",
-  "updatedAt": "2018-03-08T23:12:19.214Z"
+  "updatedAt": "2018-03-08T23:13:03.766Z"
 }
